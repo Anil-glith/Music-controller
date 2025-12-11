@@ -62,10 +62,10 @@ A notebook version — `gestures_spotify_colab.ipynb` — is included for quick 
 ---
 
 ## 👤 Author & Credits
-**Project by:** [@tubakhxn](https://github.com/tubakhxn)
+**Maintainer:** [@Anil-glith](https://github.com/Anil-glith)
 
 💡 Feel free to **fork** this repo and build your own version — but please **don’t just copy and re-upload** it as your own.  
-Show support by giving the project a ⭐ and tagging **@tubakhxn** if you share it online!
+Show support by giving the project a ⭐ and tagging **@Anil-glith** if you share it online!
 
 ---
 
